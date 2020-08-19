@@ -5,7 +5,7 @@
 #include <iostream>
 #include <stdlib.h>
 #include <vector>
-#include <hackathonlibrary.hpp>
+#include <library.hpp>
 
 using namespace std;
 
