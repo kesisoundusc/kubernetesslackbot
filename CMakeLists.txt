@@ -29,7 +29,7 @@ include_directories(".")
 
 add_executable(
 	kubernetesbot
-	hackathonlibrary.hpp
+	library.hpp
 	kubernetes.hpp
 	main.cpp
 )
